@@ -1,5 +1,7 @@
 # Encrypt-Decrypt-files
 
+open command prompt & install library:- pip install pycryptodome
+
 Steps to use app:-
 
 SignUp & SignIn page,
